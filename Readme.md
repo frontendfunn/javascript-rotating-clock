@@ -1,6 +1,6 @@
 # 🙈 🙉 🙊 Javascript Rotating Clock Animation
 
-## 😃 Click here for the 👉 💥LIVE DEMO
+## 😃 Click here for the 👉 [💥LIVE DEMO](https://frontendfunn.github.io/javascript-rotating-clock/)
 
 ---
 
